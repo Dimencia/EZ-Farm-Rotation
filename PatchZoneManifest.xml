@@ -2,5 +2,5 @@
 	<Guid>67e839c8-5017-492f-a077-0bf681bdd878</Guid>
 	<Icon></Icon>
 	<DisplayName>Farm Rotation</DisplayName>
-	<Description>Farm Rotation description</Description>
+	<Description>By D.Mentia - Pauses farms when they don't need work done on them, allowing one farmer to work multiple fields</Description>
 </PatchZoneManifest>
