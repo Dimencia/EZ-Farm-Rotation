@@ -6,7 +6,8 @@ Pauses farms when crops are fully planted and growing; unpauses them when any cr
 
 # Installation
 1) Obtain Inflex's mod loader, PatchZone: [Installation Guide](https://github.com/InflexCZE/PatchZone#installation).
-2) Start PatchZone and add Farm Rotation to the "Active mods" list.
+2) Obtain dll from [Releases](https://github.com/Dimencia/EZ-Farm-Rotation/releases) and place it into the PatchZone/Mods folder inside your EndZone directory
+3) Start PatchZone and add Farm Rotation to the "Active mods" list.
 
 # Disclamer
 Farm Rotation, as with any mods, can make the game unstable and/or crash.
